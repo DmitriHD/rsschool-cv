@@ -16,6 +16,7 @@
 * HTML
 * CSS
 * SQL
+* Python
 
 #### Education: 
 * 2009-2014 Belarusian State University of Transport, Master’s Degree in Systems, networks and telecommunication devices.
@@ -30,4 +31,4 @@ const func = (num) => {
 };
 ```
 #### More information about my projects: 
-* [GitHub](https://dmitrieg1991.github.io/).
+* [GitHub](https://https://github.com/DmitriHD).
