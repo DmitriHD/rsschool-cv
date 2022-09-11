@@ -31,4 +31,4 @@ const func = (num) => {
 };
 ```
 #### More information about my projects: 
-* [GitHub](https://https://github.com/DmitriHD).
+* [GitHub](https://github.com/DmitriHD).
